@@ -3,7 +3,7 @@ import ds18x20
 import machine
 import time
 import network
-from umqtt.simple import MQTTClient
+from simple import MQTTClient
 
 
 s = 0
