@@ -11,7 +11,7 @@ The are little differences between the two version but common points are:
 
 ++ MicroPython ++
 
-Needed libraries (not inncluded in MicroPython):
+Needed libraries (not included in MicroPython):
 - onewire (https://github.com/micropython/micropython/tree/master/drivers/onewire)
 - ds18x20 (https://github.com/micropython/micropython/tree/master/drivers/onewire)
 - simple (https://github.com/micropython/micropython-lib/tree/master/umqtt.simple/umqtt)
