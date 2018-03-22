@@ -1,5 +1,5 @@
 # homeass-temp_sens
-A temperature sensor with ESP8266-01 and DS18B20, using MQTT, in C and MicroPython - originally designed for Home Assistant.
+A temperature sensor with ESP8266-01 and DS18B20, using MQTT, in C and MicroPython - originally designed for Home Assistant, but also a version for Cayenne is available (only .ino).
 
 In this repository you will find the code - available in C (Arduino IDE) and MicroPtyhon - for a temperature sensore built using the ESP8266-01 chip and the Dallas DS18B20 sensor, communicating over MQTT.
 The are little differences between the two version but common points are:
