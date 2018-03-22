@@ -65,7 +65,7 @@ def read_sensor():
             
             
 def connect_mqtt():
-    server = "server IO"
+    server = "server IP"
     global client_id
     client_id = "client" #insert your client ID
     username='user' #insert your MQTT username
